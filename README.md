@@ -1,4 +1,4 @@
-O Apps For Old Phones é um projeto que você criou com a ideia de dar vida nova a celulares antigos, que muitas vezes já não recebem atualizações ou não conseguem rodar os aplicativos modernos.
+O Apps For Old Phones é um projeto que nós criamos com a ideia de dar vida nova a celulares antigos, que muitas vezes já não recebem atualizações ou não conseguem rodar os aplicativos modernos.
 
 A proposta é “portar” ou adaptar aplicativos atuais (como redes sociais, mensageiros, utilitários, etc.) para versões mais leves, compatíveis com celulares antigos — tanto em termos de hardware quanto de sistema operacional.
 
